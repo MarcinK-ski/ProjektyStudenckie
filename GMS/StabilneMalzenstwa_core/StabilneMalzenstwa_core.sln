@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StabilneMalzenstwa_core", "StabilneMalzenstwa_core\StabilneMalzenstwa_core.csproj", "{FD3BF392-9DC9-4E0B-966D-27F5E3FFC4B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD3BF392-9DC9-4E0B-966D-27F5E3FFC4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3BF392-9DC9-4E0B-966D-27F5E3FFC4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3BF392-9DC9-4E0B-966D-27F5E3FFC4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3BF392-9DC9-4E0B-966D-27F5E3FFC4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59E3BBA0-CE54-42FE-A43A-B6F56EAD5CC8}
+	EndGlobalSection
+EndGlobal
